@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jojo-admin-service:war">
+    <output-path>$PROJECT_DIR$/jojo-admin-service/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>jojo-admin-service</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="jojo-admin-service.war">
+      <element id="artifact" artifact-name="jojo-admin-service:war exploded" />
+    </root>
+  </artifact>
+</component>

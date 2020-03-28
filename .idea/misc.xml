@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/jojo-admin-service" />
+    <file type="web" url="file://$PROJECT_DIR$/jojo-admin-web" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/jojo-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/jojocommon/pom.xml" />
+        <option value="$PROJECT_DIR$/jojoadmin/pom.xml" />
+        <option value="$PROJECT_DIR$/jojoadminpojo/pom.xml" />
+        <option value="$PROJECT_DIR$/jojoadmininterface/pom.xml" />
+        <option value="$PROJECT_DIR$/jojo-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/jojo-admin-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/jojo-admin-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/jojo-common/pom.xml" />
+        <option value="$PROJECT_DIR$/jojo-admin-service/pom.xml" />
+        <option value="$PROJECT_DIR$/jojo-admin-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/jojo-admin-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

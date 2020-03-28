@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JoJoShpping.iml" filepath="$PROJECT_DIR$/.idea/JoJoShpping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jojo-admin/jojo-admin.iml" filepath="$PROJECT_DIR$/jojo-admin/jojo-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jojo-admin-interface/jojo-admin-interface.iml" filepath="$PROJECT_DIR$/jojo-admin-interface/jojo-admin-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jojo-admin-mapper/jojo-admin-mapper.iml" filepath="$PROJECT_DIR$/jojo-admin-mapper/jojo-admin-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jojo-admin-pojo/jojo-admin-pojo.iml" filepath="$PROJECT_DIR$/jojo-admin-pojo/jojo-admin-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jojo-admin-service/jojo-admin-service.iml" filepath="$PROJECT_DIR$/jojo-admin-service/jojo-admin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jojo-admin-web/jojo-admin-web.iml" filepath="$PROJECT_DIR$/jojo-admin-web/jojo-admin-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jojo-common/jojo-common.iml" filepath="$PROJECT_DIR$/jojo-common/jojo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jojo-parent/jojo-parent.iml" filepath="$PROJECT_DIR$/jojo-parent/jojo-parent.iml" />
+    </modules>
+  </component>
+</project>

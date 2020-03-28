@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jojo-admin-interface" />
+        <module name="jojo-admin-mapper" />
+        <module name="jojo-admin-pojo" />
+        <module name="jojo-admin-service" />
+        <module name="jojo-admin-web" />
+        <module name="jojo-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jojo-admin" target="1.8" />
+      <module name="jojo-admin-interface" target="1.8" />
+      <module name="jojo-admin-mapper" target="1.8" />
+      <module name="jojo-admin-pojo" target="1.8" />
+      <module name="jojo-admin-service" target="1.8" />
+      <module name="jojo-admin-web" target="1.8" />
+      <module name="jojo-common" target="1.8" />
+      <module name="jojo-parent" target="1.8" />
+      <module name="jojoadmin" target="1.8" />
+      <module name="jojoadmininterface" target="1.5" />
+      <module name="jojoadminpojo" target="1.5" />
+      <module name="jojocommon" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jojo-admin" options="-parameters" />
+      <module name="jojo-admin-interface" options="-parameters" />
+      <module name="jojo-admin-mapper" options="-parameters" />
+      <module name="jojo-admin-pojo" options="-parameters" />
+      <module name="jojo-admin-service" options="-parameters" />
+      <module name="jojo-admin-web" options="-parameters" />
+      <module name="jojo-common" options="-parameters" />
+      <module name="jojo-parent" options="-parameters" />
+      <module name="jojoadmin" options="-parameters" />
+      <module name="jojocommon" options="-parameters" />
+    </option>
+  </component>
+</project>
