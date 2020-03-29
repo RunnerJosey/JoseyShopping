@@ -42,6 +42,10 @@
         <freemarker.version>2.3.26-incubating</freemarker.version>
         <joda-time.version>2.5</joda-time.version>
         <quartz.version>2.2.2</quartz.version>
+        <zookeeper.version>3.5.5</zookeeper.version>
+        <zkclient.version>0.1</zkclient.version>
+        <pagehelper.version>5.0.0</pagehelper.version>
+        <mapper.version>3.4.0</mapper.version>
     </properties>
 
     <dependencies>
@@ -266,6 +270,26 @@
                     <artifactId>c3p0</artifactId>
                 </exclusion>
             </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.zookeeper</groupId>
+            <artifactId>zookeeper</artifactId>
+            <version>${zookeeper.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.sgroschupf</groupId>
+            <artifactId>zkclient</artifactId>
+            <version>${zkclient.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.pagehelper</groupId>
+            <artifactId>pagehelper</artifactId>
+            <version>${pagehelper.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>tk.mybatis</groupId>
+            <artifactId>mapper</artifactId>
+            <version>${mapper.version}</version>
         </dependency>
 
 
